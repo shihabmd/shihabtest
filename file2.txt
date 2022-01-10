@@ -1,2 +1,2 @@
 OK Great we have the 2nd file now!
-How about we add something to it?
+We made change in a new branch called 'branch'
